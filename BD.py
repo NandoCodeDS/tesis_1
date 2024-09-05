@@ -169,3 +169,5 @@ eliminar_registro(id_registro_a_eliminar)
 # Leer registros después de las operaciones
 leer_registros()
 '''
+
+#Un comentario X
